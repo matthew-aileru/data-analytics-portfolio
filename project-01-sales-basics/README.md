@@ -1,3 +1,5 @@
-# Project 0 - ???
+# Project 01 — Sales & Profitability Snapshot
 #
-## This is the project README file.
+## Tools: Google Sheets (Cleaning, Pivot Tables, Dashboard)
+## Dataset: Sample Superstore dataset (Kaggle)
+## Focus: Business + Marketing Analytics
